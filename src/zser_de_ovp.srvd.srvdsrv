@@ -1,0 +1,10 @@
+@EndUserText.label: 'overview page'
+define service ZSER_DE_OVP {
+  expose ZCDS_OVP_TABLE_MAINTAIN;
+  expose ZCME_FilterEntity;
+  expose ZCME_RecentOrders;
+  expose ZCE_FINAL_DIV_TAX;
+  expose ZCE_SALES_BAR_LISTCARD;
+  expose ZCE_REGION_KPI;
+  expose ZCDS_REGION_ORDERS;
+}

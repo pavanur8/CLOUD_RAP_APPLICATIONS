@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD for External Api'
+define service ZSD_EXT_API {
+  expose ZCUSTOM_ENTITY_SCM as Products;
+}
