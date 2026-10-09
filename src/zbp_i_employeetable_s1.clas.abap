@@ -1,0 +1,5 @@
+CLASS zbp_i_employeetable_s1 DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_emptable.
+ENDCLASS.
+
+CLASS zbp_i_employeetable_s1 IMPLEMENTATION.
+ENDCLASS.

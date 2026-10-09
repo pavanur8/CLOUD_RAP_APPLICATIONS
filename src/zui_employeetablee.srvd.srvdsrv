@@ -1,0 +1,5 @@
+@ObjectModel.leadingEntity.name: 'ZI_EmpTable'
+define service ZUI_EMPLOYEETABLEE {
+  expose ZI_EMPTABLE as EmployeeTableAll;
+  expose ZI_EMPSINGLETON as EmployeeTable;
+}
